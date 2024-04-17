@@ -69,7 +69,7 @@
 
 ### Data Analyst & Data Scientist
 
-[![Twitch](https://img.shields.io/badge/Twitch-Retos_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/dawoork)
+[![Twitch](https://img.shields.io/badge/dawoork?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/dawoork)
 [![Discord](https://img.shields.io/badge/Discord-Chat_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://dawoork.com/discord)
 [![Link](https://img.shields.io/badge/Links_de_interés-dawoork.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dawoork.com)
 
