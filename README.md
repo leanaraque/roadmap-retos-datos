@@ -6,20 +6,12 @@
 ### Ruta de estudio con ejercicios para mejorar tu lógica de programación y aprender cualquier lenguaje. Gratis, a tu ritmo y en comunidad.
 
 #### [https://dawoork.com/retos/roadmap/](https://dawoork.com/retos/roadmap/)
-[![Retos programación web](https://img.shields.io/github/stars/mouredev/retos-programacion-web?label=Web%20Retos%20Programación&style=social)](https://github.com/mouredev/retos-programacion-web)
-
-## Ranking de lenguajes y usuarios
-
-#### ¿Estás participando en los retos? Ahora puedes consultar el ranking de usuarios y lenguajes según su número de contribuciones.
-
-#### [https://retosdeprogramacion.com/roadmap/ranking](https://retosdeprogramacion.com/roadmap/ranking)
 
 ## Información importante
 
-* Cada semana se publica un nuevo reto y se corrige en directo desde **[Twitch](https://twitch.tv/mouredev)** el ejercicio de la semana pasada.
-* En la sección "Eventos" de nuestro servidor de **[Discord](https://discord.gg/mouredev)** encontrarás el día y horario por país de los directos.
-* Puedes utilizar **cualquier lenguaje de programación**, y encontrar tanto mis correcciones como las de la comunidad en el directorio de cada reto.
-* **¿Quieres participar?** Te lo explico en la sección **[Instrucciones](https://github.com/mouredev/roadmap-retos-programacion#instrucciones)** en este mismo documento.
+* Cada semana se publica un nuevo reto y se corrige en directo desde **[Twitch](https://twitch.tv/dawoork)** el ejercicio de la semana pasada.
+* En la sección "Eventos" de nuestro servidor de **[Discord](https://dawoork.com/discord)** encontrarás el día y horario por país de los directos.
+* **¿Quieres participar?** Te lo explico en la sección **[Instrucciones](https://github.com/dawoork/roadmap-retos-programacion#instrucciones)** en este mismo documento.
 * Los retos siguen un orden basado en su ruta de estudio pero si ya tienes conocimientos puedes resolverlos de manera totalmente independiente. Simplemente revisa su nivel de dificultad.
 * Una vez se haya cumplido la semana de publicación del reto, podrás consultar mi corrección y las de la comunidad en cualquier lenguaje de programación.
 
