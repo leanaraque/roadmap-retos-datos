@@ -15,11 +15,11 @@
 * Los retos siguen un orden basado en su ruta de estudio pero si ya tienes conocimientos puedes resolverlos de manera totalmente independiente. Simplemente revisa su nivel de dificultad.
 * Una vez se haya cumplido la semana de publicación del reto, podrás consultar mi corrección y las de la comunidad en cualquier lenguaje de programación.
 
-> Consulta la [web](https://retosdeprogramacion.com/roadmap) para más información.
+> Consulta la [web](https://dawoork.com/retos/roadmap) para más información.
 
 ## Corrección y próximo ejercicio
 
-> #### Lunes 22 de Abril de 2024 a las 20:00 (hora España) desde **[Twitch](https://twitch.tv/mouredev)**
+> #### Lunes DIA de MES de AÑO a las 18:00 (hora Argentina) desde **[Twitch](https://twitch.tv/dawoork)**
 > #### Consulta el **[horario](https://discord.gg/8ke6EqSt?event=1227006064784969818)** por país y crea un **[recordatorio](https://discord.gg/8ke6EqSt?event=1227006064784969818)**
 
 ## Roadmap
@@ -27,51 +27,28 @@
 | # | Ejercicio | Corrección | Vídeo | Comunidad |
 |---|-----------|------------|-------|-----------|
 |00|[SINTAXIS, VARIABLES, TIPOS DE DATOS Y HOLA MUNDO](./Roadmap/00%20-%20SINTAXIS,%20VARIABLES,%20TIPOS%20DE%20DATOS%20Y%20HOLA%20MUNDO/ejercicio.md)|[📝](./Roadmap/00%20-%20SINTAXIS,%20VARIABLES,%20TIPOS%20DE%20DATOS%20Y%20HOLA%20MUNDO/python/mouredev.py)|[▶️](https://youtu.be/gEIBJ7rmLa0)|[👥](./Roadmap/00%20-%20SINTAXIS,%20VARIABLES,%20TIPOS%20DE%20DATOS%20Y%20HOLA%20MUNDO/)
-|01|[OPERADORES Y ESTRUCTURAS DE CONTROL](./Roadmap/01%20-%20OPERADORES%20Y%20ESTRUCTURAS%20DE%20CONTROL/ejercicio.md)|[📝](./Roadmap/01%20-%20OPERADORES%20Y%20ESTRUCTURAS%20DE%20CONTROL/python/mouredev.py)|[▶️](https://youtu.be/DLSGCh9jdes)|[👥](./Roadmap/01%20-%20OPERADORES%20Y%20ESTRUCTURAS%20DE%20CONTROL/)
-|02|[FUNCIONES Y ALCANCE](./Roadmap/02%20-%20FUNCIONES%20Y%20ALCANCE/ejercicio.md)|[📝](./Roadmap/02%20-%20FUNCIONES%20Y%20ALCANCE/python/mouredev.py)|[▶️](https://youtu.be/auxClgiX6UM)|[👥](./Roadmap/02%20-%20FUNCIONES%20Y%20ALCANCE/)
-|03|[ESTRUCTURAS DE DATOS](./Roadmap/03%20-%20ESTRUCTURAS%20DE%20DATOS/ejercicio.md)|[📝](./Roadmap/03%20-%20ESTRUCTURAS%20DE%20DATOS/python/mouredev.py)|[▶️](https://youtu.be/brxtPtUbU7M)|[👥](./Roadmap/03%20-%20ESTRUCTURAS%20DE%20DATOS/)
-|04|[CADENAS DE CARACTERES](./Roadmap/04%20-%20CADENAS%20DE%20CARACTERES/ejercicio.md)|[📝](./Roadmap/04%20-%20CADENAS%20DE%20CARACTERES/python/mouredev.py)|[▶️](https://youtu.be/CKzY7nHwulA)|[👥](./Roadmap/04%20-%20CADENAS%20DE%20CARACTERES/)
-|05|[VALOR Y REFERENCIA](./Roadmap/05%20-%20VALOR%20Y%20REFERENCIA/ejercicio.md)|[📝](./Roadmap/05%20-%20VALOR%20Y%20REFERENCIA/python/mouredev.py)|[▶️](https://youtu.be/P2OQDT9Wrb0)|[👥](./Roadmap/05%20-%20VALOR%20Y%20REFERENCIA/)
-|06|[RECURSIVIDAD](./Roadmap/06%20-%20RECURSIVIDAD/ejercicio.md)|[📝](./Roadmap/06%20-%20RECURSIVIDAD/python/mouredev.py)|[▶️](https://youtu.be/nTfDkLRrYiM)|[👥](./Roadmap/06%20-%20RECURSIVIDAD/)
-|07|[PILAS Y COLAS](./Roadmap/07%20-%20PILAS%20Y%20COLAS/ejercicio.md)|[📝](./Roadmap/07%20-%20PILAS%20Y%20COLAS/python/mouredev.py)|[▶️](https://youtu.be/cBeRWS2X0CA)|[👥](./Roadmap/07%20-%20PILAS%20Y%20COLAS/)
-|08|[CLASES](./Roadmap/08%20-%20CLASES/ejercicio.md)|[📝](./Roadmap/08%20-%20CLASES/python/mouredev.py)|[▶️](https://youtu.be/W4tv8WUbum4)|[👥](./Roadmap/08%20-%20CLASES/)
-|09|[HERENCIA Y POLIMORFISMO](./Roadmap/09%20-%20HERENCIA/ejercicio.md)|[📝](./Roadmap/09%20-%20HERENCIA/python/mouredev.py)|[▶️](https://youtu.be/PVBs5PWjedA)|[👥](./Roadmap/09%20-%20HERENCIA/)
-|10|[EXCEPCIONES](./Roadmap/10%20-%20EXCEPCIONES/ejercicio.md)|[📝](./Roadmap/10%20-%20EXCEPCIONES/python/mouredev.py)|[▶️](https://youtu.be/mfOzfj-BrQo)|[👥](./Roadmap/10%20-%20EXCEPCIONES/)
-|11|[MANEJO DE FICHEROS](./Roadmap/11%20-%20MANEJO%20DE%20FICHEROS/ejercicio.md)|[📝](./Roadmap/11%20-%20MANEJO%20DE%20FICHEROS/python/mouredev.py)|[▶️](https://youtu.be/Bsiay2nax4Y)|[👥](./Roadmap/11%20-%20MANEJO%20DE%20FICHEROS/)
-|12|[JSON Y XML](./Roadmap/12%20-%20JSON%20Y%20XML/ejercicio.md)|[📝](./Roadmap/12%20-%20JSON%20Y%20XML/python/mouredev.py)|[▶️](https://youtu.be/OwStihBItEg)|[👥](./Roadmap/12%20-%20JSON%20Y%20XML/)
-|13|[PRUEBAS UNITARIAS](./Roadmap/13%20-%20PRUEBAS%20UNITARIAS/ejercicio.md)|[📝](./Roadmap/13%20-%20PRUEBAS%20UNITARIAS/python/mouredev.py)|[▶️](https://youtu.be/3WFQ2grp0h0)|[👥](./Roadmap/13%20-%20PRUEBAS%20UNITARIAS/)
-|14|[FECHAS](./Roadmap/14%20-%20FECHAS/ejercicio.md)|[📝](./Roadmap/14%20-%20FECHAS/python/mouredev.py)|[▶️](https://youtu.be/EQIAhF7NNMI)|[👥](./Roadmap/14%20-%20FECHAS/)
-|15|[ASINCRONÍA](./Roadmap/15%20-%20ASINCRONÍA/ejercicio.md)|[📝](./Roadmap/15%20-%20ASINCRONÍA/python/mouredev.py)||[👥](./Roadmap/15%20-%20ASINCRONÍA/)
-|16|[EXPRESIONES REGULARES](./Roadmap/16%20-%20EXPRESIONES%20REGULARES/ejercicio.md)|[🗓️ 22/04/24](https://discord.gg/8ke6EqSt?event=1227006064784969818)||[👥](./Roadmap/16%20-%20EXPRESIONES%20REGULARES/)
+
 
 ## Instrucciones
 
-**Haz un [FORK](https://github.com/mouredev/roadmap-retos-programacion/fork) del proyecto y trabaja con Git para ir sincronizando las actualizaciones.**
+**Haz un [FORK](https://github.com/dawoork/roadmap-retos-datos/fork) del proyecto y trabaja con Git para ir sincronizando las actualizaciones.**
 
 1. En el proyecto tienes un directorio para cada ejercicio en la carpeta [Roadmap](./Roadmap). Dentro de cada directorio encontrarás un fichero llamado **ejercicio.md** con el enunciado de cada reto.
 2. Si quieres compartir tu propia solución de un ejercicio con la comunidad, crea un fichero de código con tu nombre y extensión, y realiza una [**PULL REQUEST**](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) contra el repositorio.
-3. El fichero de código debe situarse dentro del directorio del reto, en la carpeta correspondiente al lenguaje de programación utilizado (si no existe la carpeta del lenguaje, créala con todas sus letras en minúsculas). Por ejemplo, si has resuelto el reto #00 utilizando el lenguaje de programación Python y tu usuario de GitHub se llama "mouredev", tu corrección deberá estar en **"Roadmap/#00/python/mouredev.py"**. El título de la Pull Request también debe seguir este formato: **"#[número] - [lenguaje_utilizado]"**. En el ejemplo anterior sería **"#00 - Python"**. Se rechazarán las Pull Request que no sigan este formato o contengan ficheros adicionales.
-4. Cada **SEMANA** (consulta el día en el ejercicio correspondiente) realizaré una transmisión en directo desde **[Twitch](https://twitch.tv/mouredev)** corrigiendo el reto, revisando soluciones de la comunidad y publicando un nuevo ejercicio.
-5. Si necesitas ayuda o quieres comentar cualquier cosa sobre los retos semanales, tienes el canal "reto-semanal” en nuestro servidor de **[Discord](https://discord.gg/mouredev)** (también el día y horario de corrección en la sección "Eventos").
+3. El fichero de código debe situarse dentro del directorio del reto, en la carpeta correspondiente al lenguaje de programación utilizado (si no existe la carpeta del lenguaje, créala con todas sus letras en minúsculas). Por ejemplo, si has resuelto el reto #00 utilizando otra alternativa y tu usuario de GitHub se llama "dawoork", tu corrección deberá estar en **"Roadmap/#00/soluciones/dawoork.py"**. El título de la Pull Request también debe seguir este formato: **"#[número] - [soluciones]"**. En el ejemplo anterior sería **"#00 - Soluciones"**. Se rechazarán las Pull Request que no sigan este formato o contengan ficheros adicionales.
+4. Cada **SEMANA** (consulta el día en el ejercicio correspondiente) realizaré una transmisión en directo desde **[Twitch](https://twitch.tv/dawoork)** corrigiendo el reto, revisando soluciones de la comunidad y publicando un nuevo ejercicio.
+5. Si necesitas ayuda o quieres comentar cualquier cosa sobre los retos semanales, tienes el canal "reto-semanal” en nuestro servidor de **[Discord](https://dawoork.com/discord)** (también el día y horario de corrección en la sección "Eventos").
 6. Puedes proponer Pull Request con propuestas o correcciones sobre ejercicios del resto de la comunidad si estos poseen errores. De esta manera colaboraremos para crear un repositorio cada vez más valioso.
 7. Si se te solicita un cambio/corrección en una Pull Request, y al cabo de 2 semanas no se muestra nueva actividad, se cerrará esa petición para mantener el repositorio limpio. Por supuesto, puedes volver a enviar la Pull Request cuando quieras.
 
-## Aclaraciones
-
-Si tienes dudas con el nombre del directorio de algún lenguaje, intenta consultar el nombre que se ha empleado en ejercicios anteriores. Algunos ejemplos que puedes llegar a dudar:
-    
-* c#, no csharp
-* c++, no cplusplus
-* go, no golang
-* javascript, no js
 
 ## Guía rápida Git y GitHub
 
-1. Realiza un [FORK](https://github.com/mouredev/roadmap-retos-programacion/fork) del repositorio de retos semanales desde GitHub.
+1. Realiza un [FORK](https://github.com/dawoork/roadmap-retos-datos/fork) del repositorio de retos semanales desde GitHub.
 2. CLONA ese repositorio a tu máquina local `git clone [TU-REPOSITORIO]`.
 3. (Opcional) Crea una RAMA para la solución y desplázate a ella `git checkout -b [EL-NOMBRE-DE-TU-RAMA]`.
 4. Añade el fichero de tu solución al STAGE `git add [FICHERO-DE-TU-RETO]`.
-5. Haz COMMIT con el mensaje de la solución `git commit -m "#[NÚMERO-RETO] - [LENGUAJE-UTILIZADO]"`.
+5. Haz COMMIT con el mensaje de la solución `git commit -m "#[NÚMERO-RETO] - [soluciones]"`.
 6. Haz PUSH `git push [EL-NOMBRE-DE-TU-RAMA]` (puede ser la "main" o la que creaste en el paso 3)
 7. En el repositorio principal debes ir a la rama y hacer [PULL REQUEST](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 8. CONTRIBUTE.
@@ -80,7 +57,7 @@ Si tienes dudas con el nombre del directorio de algún lenguaje, intenta consult
 
 *He creado un curso completo gratis para aprender a trabajar con Git y GitHub desde cero.*
 
-[![Curso Git y GitHub](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20GitHub&style=social)](https://github.com/mouredev/hello-git)
+[![Curso Git y GitHub](https://img.shields.io/github/stars/dawoork/git-hello?label=Curso%20Git%20GitHub&style=social)](https://github.com/dawoork/git-hello)
 
 ## Más retos de programación
 
