@@ -63,26 +63,25 @@
 
 **Consulta los 101 retos de programación resueltos y las 12 aplicaciones para tu portfolio que ya hemos desarrollado.**
 
-[![Retos programación 2023](https://img.shields.io/github/stars/mouredev/retos-programacion-2023?label=Retos%20Programación%202023&style=social)](https://github.com/mouredev/retos-programacion-2023)
-[![Retos programación 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-[![Aplicaciones portafolio](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Aplicaciones%20portafolio&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
+[![Portafolio](https://img.shields.io/github/stars/dawoork/data-portafolio?label=Aplicaciones%20portafolio&style=social)](https://github.com/dawoork/data-portafolio)
 
-## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
-### Freelance full-stack iOS & Android engineer
+## ! Hola, mi nombre es Leandro araque.
 
-[![Twitch](https://img.shields.io/badge/Twitch-Retos_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Chat_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
+### Data Analyst & Data Scientist
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/mouredev?style=social)
+[![Twitch](https://img.shields.io/badge/Twitch-Retos_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/dawoork)
+[![Discord](https://img.shields.io/badge/Discord-Chat_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://dawoork.com/discord)
+[![Link](https://img.shields.io/badge/Links_de_interés-dawoork.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dawoork.com)
 
-Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrollando Apps con la creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/dawoork?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/dawoork)
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://dawoork.com/discord)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/lean_dawoork)
+![GitHub Followers](https://img.shields.io/github/followers/dawoork?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/dawoork?style=social)
+
+oy un Científico de Datos con más de cinco años de experiencia, apasionado por el poder transformador de los datos en empresas de todos los tamaños. redes sociales como **[@dawoork](https://dawoork.com)**.
 
 ### En mi perfil de GitHub tienes más información
 
-[![Web](https://img.shields.io/badge/GitHub-MoureDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
+[![Web](https://img.shields.io/badge/GitHub-Dawoork-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/dawoork)
