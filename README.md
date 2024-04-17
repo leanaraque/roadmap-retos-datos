@@ -69,14 +69,14 @@
 
 ### Data Analyst & Data Scientist
 
-[![Twitch](https://img.shields.io/badge/Twitch-Retos_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
+[![Twitch](https://img.shields.io/badge/Twitch-Retos_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/dawoork)
 [![Discord](https://img.shields.io/badge/Discord-Chat_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://dawoork.com/discord)
 [![Link](https://img.shields.io/badge/Links_de_interés-dawoork.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dawoork.com)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/dawoork?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/dawoork)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://dawoork.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/lean_dawoork)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7dVf0zms6w51iVWgRHuttQ?style=social)](https://youtube.com/dawoork?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/dawoork?style=social)](https://twitch.com/dawoork)
+[![Discord](https://img.shields.io/discord/1175063228993253456?style=social&label=Discord&logo=discord)](https://dawoork.com/discord)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lean_dawoork?style=social)](https://twitter.com/lean_dawoork)
 ![GitHub Followers](https://img.shields.io/github/followers/dawoork?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/dawoork?style=social)
 
