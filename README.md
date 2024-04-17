@@ -11,7 +11,7 @@
 
 * Cada semana se publica un nuevo reto y se corrige en directo desde **[Twitch](https://twitch.tv/dawoork)** el ejercicio de la semana pasada.
 * En la sección "Eventos" de nuestro servidor de **[Discord](https://dawoork.com/discord)** encontrarás el día y horario por país de los directos.
-* **¿Quieres participar?** Te lo explico en la sección **[Instrucciones](https://github.com/dawoork/roadmap-retos-programacion#instrucciones)** en este mismo documento.
+* **¿Quieres participar?** Te lo explico en la sección **[Instrucciones](https://github.com/dawoork/roadmap-retos-datos#instrucciones)** en este mismo documento.
 * Los retos siguen un orden basado en su ruta de estudio pero si ya tienes conocimientos puedes resolverlos de manera totalmente independiente. Simplemente revisa su nivel de dificultad.
 * Una vez se haya cumplido la semana de publicación del reto, podrás consultar mi corrección y las de la comunidad en cualquier lenguaje de programación.
 
