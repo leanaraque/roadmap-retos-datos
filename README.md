@@ -63,7 +63,7 @@
 
 **Consulta los 101 retos de programación resueltos y las 12 aplicaciones para tu portfolio que ya hemos desarrollado.**
 
-[![Portafolio](https://img.shields.io/github/stars/dawoork/data-portafolio?label=Data%20Portafolio&style=social)](https://github.com/dawoork/data-portafolio)
+[![Portafolio Analyst](https://img.shields.io/github/stars/dawoork/portafolio-analyst?label=Portafolio%20Analyst&style=social)](https://github.com/dawoork/data-portafolio)
 
 ## ! Hola, mi nombre es Leandro araque.
 
