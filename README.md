@@ -61,11 +61,11 @@
 
 ## Más retos de programación
 
-**Consulta los 101 retos de programación resueltos y las 12 aplicaciones para tu portfolio que ya hemos desarrollado.** 
+**Consulta proyectos para que añadas en tu portafolio según tu espacialidad** 
 
 [![Portafolio Analyst](https://img.shields.io/github/stars/dawoork/portafolio-analyst?label=Portafolio%20Analyst&style=social)](https://github.com/dawoork/portafolio-analyst) [![Portafolio Scientist](https://img.shields.io/github/stars/dawoork/portafolio-scientist?label=Portafolio%20scientist&style=social)](https://github.com/dawoork/portafolio-scientist) 
 
-## ! Hola, mi nombre es Leandro araque.
+## Hola, mi nombre es Leandro araque.
 
 ### Data Analyst & Data Scientist
 
