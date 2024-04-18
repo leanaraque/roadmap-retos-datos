@@ -1,4 +1,4 @@
-![https://retosdeprogramacion.com](./Images/header.jpg)
+![https://retosdeprogramacion.com](./Images/header2.jpg)
 
 # Roadmap retos de programación semanales 2024
 
