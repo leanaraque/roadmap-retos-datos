@@ -59,7 +59,7 @@
 
 [![Curso Git y GitHub](https://img.shields.io/github/stars/dawoork/git-hello?label=Curso%20Git%20GitHub&style=social)](https://github.com/dawoork/git-hello)
 
-## Más retos de programación
+## Te ayudo con tu portafolio 
 
 **Consulta proyectos para que añadas en tu portafolio según tu espacialidad** 
 
