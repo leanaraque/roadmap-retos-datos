@@ -19,7 +19,7 @@
 
 ## Corrección y próximo ejercicio
 
-> #### Lunes DIA de MES de AÑO a las 18:00 (hora Argentina) desde **[Twitch](https://twitch.tv/dawoork)**
+> #### Lunes 08 de 07 de 2024 a las 18:00 (hora Argentina) desde **[Twitch](https://twitch.tv/dawoork)**
 > #### Consulta el **[horario](https://discord.gg/8ke6EqSt?event=1227006064784969818)** por país y crea un **[recordatorio](https://discord.gg/8ke6EqSt?event=1227006064784969818)**
 
 ## Roadmap
